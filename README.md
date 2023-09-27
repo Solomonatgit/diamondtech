@@ -1,1 +1,1 @@
-# diamondtech
+# individual bootstrap project Diamond Tech
